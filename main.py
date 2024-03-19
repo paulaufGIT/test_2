@@ -12,6 +12,6 @@ def create_data(points, classes):
         X[ix] = np.c_[r*np.sin(t*2.5), r*np.cos(t*2.5)]
         Y[ix] = class_number
     return  X, Y
-
+#nu
 X, Y = create_data(100, 3)
 
