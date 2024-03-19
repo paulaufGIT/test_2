@@ -13,5 +13,6 @@ def create_data(points, classes):
         Y[ix] = class_number
     return  X, Y
 #nu
+#nochma
 X, Y = create_data(100, 3)
 
