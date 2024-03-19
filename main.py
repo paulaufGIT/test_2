@@ -15,5 +15,6 @@ def create_data(points, classes):
 #nu
 #nochma
 #le
+#nochema
 X, Y = create_data(100, 3)
 
